@@ -44,3 +44,8 @@ I share insights and tips on frontend development and design on [Dev.to](#), cov
 ### 📊 Some Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardegbaaibon&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardegbaaibon&layout=compact&theme=dracula)
+
+
+### 💼 Contributions Over Time
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/generating?username=leonardegbaaibon&show_icons=true&count_private=true&theme=dracula)
